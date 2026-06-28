@@ -70,3 +70,9 @@ The system includes dedicated dashboards for administrators, customers, and sale
 ### Salesperson Inventory Management
 
 ![Salesperson Inventory Management](Screenshots/SalesPerson_InventoryManagement.png)
+
+
+## Live Demo
+
+**Live Website:** [Abaya Store Management System](http://takreemiad.somee.com/Lab%2010%20Project/Login)
+
